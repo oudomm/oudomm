@@ -1,6 +1,6 @@
 # Hi, I'm Oudom 👋
 
-Full-Stack Developer focusing on **Backend** | Expanding into **DevOps**
+Full-Stack Developer focusing on **Backend**
 
 ## Tech Stack
 
